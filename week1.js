@@ -1,3 +1,3 @@
-import 'fs' from 'node:fs';
+import fs from 'node:fs';
 
 console.log("test");
